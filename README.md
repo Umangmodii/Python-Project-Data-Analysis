@@ -7,7 +7,7 @@
 * Perfomed data cleaning and manipulation. <br/>
 * Performed exploratory data analysis using pandas, matplotlib and seaborn libraries. <br/>
 * Improved customer experience by identifying potential customers across diffrent states, occupation, gender and age groups. <br/>
-* Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands. <br/> * Perfomed data cleaning and manipulation. <br/> * Performed exploratory data analysis using pandas, matplotlib and seaborn libraries. <br/> * Improved customer experience by identifying potential customers across diffrent states, occupation, gender and age groups. <br/> * Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+* Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands. 
 
 <br/>
 Skills: Python (Programming Language) · Pandas (Software) · NumPy · Matplotlib · Jupyter · Data Analysis · Statistical Data Analysis · Big Data Analytics
