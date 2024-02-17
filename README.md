@@ -1,7 +1,7 @@
 
 <h2> 
 Python With Machine Learning & Data Science Project (Numpy, Pandas, MatplotLib) Using Jupyter NoteBook </h2>
-<h3> Feb 2024 - PresentFeb 2024 - Present </h3>
+<h3> Feb 2024 - Present Feb 2024 - Present </h3>
 <hr/>
 <br/>
 
